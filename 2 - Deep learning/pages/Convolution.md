@@ -1,0 +1,1 @@
+Una convolucion 2D es un producto escalar entre una imagen (matriz nxn) y un **kernel** (3x3, tamaño de la *ventana*)

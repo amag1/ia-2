@@ -1,0 +1,1 @@
+Operacion inversa a la [[Convolution]]. Multiplica cada elemento por el kernel y luego los combina. De esta forma, crece el tamaño de la imagen.

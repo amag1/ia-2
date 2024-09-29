@@ -1,0 +1,1 @@
+Si tenemos que resolver un problema común, está bueno agarrar modelos preentrenados (por ejemplo Coco en YOLO). Estos modelos dejan muchas capas "freezadas" y nos permiten ajustar algunas capas.

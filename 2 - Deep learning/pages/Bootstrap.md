@@ -1,0 +1,3 @@
+- Dado un conjunto de entrenamiento, tomamos subconjuntos de tamaño X.
+- Cada uno de esos subconjuntos se genera tomando X elementos al azar del conjunto original **con repeticion**
+- Entrenamos una red neuronal para cada subconjunto y usamos [[Ensemble]] para combinar outputs

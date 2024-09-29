@@ -1,0 +1,1 @@
+Captura demasiado bien las particularidades de los datos ^856b31

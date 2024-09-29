@@ -1,0 +1,1 @@
+Consiste en agregar un borde con ceros para poder aplicar [[Convolution|convoluciones]] en los bordes de manera que no se reduzca el tamaño de la imagen

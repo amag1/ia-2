@@ -1,0 +1,1 @@
+La red no llega a aprender las reglas del conjunto de datos

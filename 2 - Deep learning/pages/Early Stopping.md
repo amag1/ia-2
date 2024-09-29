@@ -1,0 +1,1 @@
+Recordando el [grafico](obsidian://open?vault=Obsidian%20Vault&file=IA%202%2F2%20-%20Deep%20learning%2Fsrc%2FPasted%20image%2020240902184800.png) de como funciona el error, buscamos evitar que la red overfitee: si no se mejora mas que un $\Delta$ minimo durante x epocas, se detiene el entrenamiento
