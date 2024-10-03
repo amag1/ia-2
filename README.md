@@ -1,2 +1,2 @@
-# ia-2-resumen
-Resumenes de IA 2 en formato Markdown para leer en Obsidian
+# ia-2
+Resúmenes de Inteligencia Artificial 2 en formato Markdown para leer en Obsidian
